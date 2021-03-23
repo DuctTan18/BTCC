@@ -1,0 +1,10 @@
+C:\Users\ADM\source\repos\BaiTap2\BaiTap2\bin\Debug\BaiTap2.exe.config
+C:\Users\ADM\source\repos\BaiTap2\BaiTap2\bin\Debug\BaiTap2.exe
+C:\Users\ADM\source\repos\BaiTap2\BaiTap2\bin\Debug\BaiTap2.pdb
+C:\Users\ADM\source\repos\BaiTap2\BaiTap2\obj\Debug\BaiTap2.csprojAssemblyReference.cache
+C:\Users\ADM\source\repos\BaiTap2\BaiTap2\obj\Debug\BaiTap2.Form1.resources
+C:\Users\ADM\source\repos\BaiTap2\BaiTap2\obj\Debug\BaiTap2.fdangnhapthanhcong.resources
+C:\Users\ADM\source\repos\BaiTap2\BaiTap2\obj\Debug\BaiTap2.Properties.Resources.resources
+C:\Users\ADM\source\repos\BaiTap2\BaiTap2\obj\Debug\BaiTap2.csproj.GenerateResource.cache
+C:\Users\ADM\source\repos\BaiTap2\BaiTap2\obj\Debug\BaiTap2.exe
+C:\Users\ADM\source\repos\BaiTap2\BaiTap2\obj\Debug\BaiTap2.pdb
